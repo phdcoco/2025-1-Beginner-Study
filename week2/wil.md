@@ -44,3 +44,5 @@ Merge는 Github의 Pull requests에서 작업한다. compare에 벙합하려고 
 
 3. Rebase and Merge
 - 브랜치의 커밋들을 main 브랜치 뒤에 이어붙이기만 하고, 병합 커밋 없이 병합한다.
+
+<https://github.com/phdcoco/2025-1-Beginner-Study/pull/2>
